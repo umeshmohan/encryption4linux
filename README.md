@@ -2,6 +2,7 @@ encryption4linux
 ================
 
 shell scripts to create, mount &amp; unmount encrypted file containers under linux.
+(LUKS AES 256 volume in XTS mode)
 
 https://github.com/t-d-k/doxbox/blob/master/docs/Linux_examples__LUKS.md#level_3_heading_6
 
